@@ -1,10 +1,10 @@
-#include <iostream>
-using namespace std;
 /*Name-Purvansha Gehlod
 PRN-22070123088
 Exp_21- Searching Algorithms
      i) Linear Search
 */
+#include <iostream>
+using namespace std;
 
 int linearSearch(int arr[], int size, int target) {
     for (int i = 0; i < size; i++) {
